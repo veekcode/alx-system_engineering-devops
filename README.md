@@ -1,1 +1,1 @@
-this is shell basics
+listing the content of a directory
