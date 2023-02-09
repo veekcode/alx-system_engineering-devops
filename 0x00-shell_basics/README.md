@@ -1,1 +1,1 @@
-The content of a directory
+changing the curreent directory
