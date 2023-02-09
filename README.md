@@ -1,1 +1,1 @@
-This is a directory for all my devops tasks
+this is shell basics
