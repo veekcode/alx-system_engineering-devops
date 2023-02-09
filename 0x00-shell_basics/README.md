@@ -1,1 +1,1 @@
-changing the curreent directory
+This is long format command
