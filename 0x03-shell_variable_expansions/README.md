@@ -1,0 +1,1 @@
+valuable expansions in shell
