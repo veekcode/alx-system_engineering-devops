@@ -1,2 +1,2 @@
-#!/bi/bash
+#!/bin/bash
 export TRUEKNOWLEDGE=128
